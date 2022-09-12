@@ -1,5 +1,7 @@
 ### Hi there, Uqba here👋
 
+## I am a Software Engineer having intense interest in developmnt.
+
 <!--
 **Uqba-Usman/Uqba-Usman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
